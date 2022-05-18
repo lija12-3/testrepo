@@ -1,3 +1,5 @@
 git init- initialize git
 git add - add items
 git status- get untracked items
+git add -A - adding to staging area
+git commit -m"comment"get into local repository
