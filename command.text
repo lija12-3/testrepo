@@ -1,0 +1,3 @@
+git init- initialize git
+git add - add items
+git status- get untracked items
