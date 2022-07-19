@@ -4,3 +4,4 @@ git status- get untracked items
 git add -A - adding to staging area
 git commit -m"comment"get into local repository
 git revert
+git add
